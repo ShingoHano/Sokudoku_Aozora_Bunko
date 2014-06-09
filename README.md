@@ -5,9 +5,6 @@ aozora2
 リアルタイムで閲覧できるiOSアプリケーションです。  
   
   
-AppStoreにて”速読青空文庫”という無料アプリで販売し、  
-4.5点/5点　のレビューを獲得していました。  
-  
 ![image1](http://nntp.ie-t.net/images/aozora1.png)
 ![image2](http://nntp.ie-t.net/images/aozora2.png)  
 ![image3](http://nntp.ie-t.net/images/aozora3.png)
