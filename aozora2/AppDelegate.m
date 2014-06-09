@@ -7,18 +7,21 @@
 //
 
 #import "AppDelegate.h"
-
-#import "MasterViewController.h"
+#import "SecondViewController.h"
+#import "Appirater.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [Appirater setAppId:@"644872599"]; // アプリを追加したときに与えられる9桁の数字(Apple ID)
+    [Appirater setDebug: NO]; // デバッグモードの設定。YESにするとアプリを起動するたびに表示される。(デフォルト:NO)
+    [Appirater appLaunched:YES]; // Appiraterの起動
+    
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    // Override point for customization after application launch.
+    SecondViewController *secondViewController=[[SecondViewController alloc]initWithNibName:@"SecondViewController" bundle:nil];
+    self.navigationController=[[UINavigationController alloc]initWithRootViewController:secondViewController];
 
-    MasterViewController *masterViewController = [[MasterViewController alloc] initWithNibName:@"MasterViewController" bundle:nil];
-    self.navigationController = [[UINavigationController alloc] initWithRootViewController:masterViewController];
     self.window.rootViewController = self.navigationController;
     [self.window makeKeyAndVisible];
     return YES;
@@ -38,6 +41,7 @@
 
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
+        [Appirater appEnteredForeground:YES];
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
 }
 

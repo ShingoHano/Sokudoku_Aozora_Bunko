@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/SecondViewController.m"
+         timestampString = "390643410.157548"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "629"
+         endingLineNumber = "629"
+         landmarkName = "-webViewDidFinishLoad:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/SecondViewController.m"
+         timestampString = "390643410.157548"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "495"
+         endingLineNumber = "495"
+         landmarkName = "-webViewDidFinishLoad:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "43"
+         endingLineNumber = "43"
+         landmarkName = "-viewDidLoad"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "230"
+         endingLineNumber = "230"
+         landmarkName = "-tableView:didSelectRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/MasterViewController.m"
+         timestampString = "389092705.210597"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "96"
+         endingLineNumber = "96"
+         landmarkName = "-tableView:numberOfRowsInSection:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "196"
+         endingLineNumber = "196"
+         landmarkName = "-tableView:numberOfRowsInSection:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/SecondViewController.h"
+         timestampString = "389718176.28551"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "38"
+         endingLineNumber = "38"
+         landmarkName = "@interface SecondViewController"
+         landmarkType = "2">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/SecondViewController.m"
+         timestampString = "390643410.157548"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "627"
+         endingLineNumber = "627"
+         landmarkName = "-webViewDidFinishLoad:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ReadViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "138"
+         endingLineNumber = "138"
+         landmarkName = "-webRead:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ReadViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "137"
+         endingLineNumber = "137"
+         landmarkName = "-webRead:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ReadViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "106"
+         endingLineNumber = "106"
+         landmarkName = "-webRead:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/SecondViewController.m"
+         timestampString = "391942290.963159"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "776"
+         endingLineNumber = "776"
+         landmarkName = "-tableView:didSelectRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "108"
+         endingLineNumber = "108"
+         landmarkName = "-wikiData:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "109"
+         endingLineNumber = "109"
+         landmarkName = "-wikiData:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "aozora2/ListViewController.m"
+         timestampString = "391942451.89133"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "20"
+         endingLineNumber = "20"
+         landmarkName = "@implementation ListViewController"
+         landmarkType = "3">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
