@@ -5,10 +5,10 @@
 リアルタイムで閲覧できるiOSアプリケーションです。  
   
   
-![image1](http://nntp.ie-t.net/images/aozora1.png)
-![image2](http://nntp.ie-t.net/images/aozora2.png)  
-![image3](http://nntp.ie-t.net/images/aozora3.png)
-![image4](http://nntp.ie-t.net/images/aozora4.png)  
+![image1](http://priolo.wktk.so/images/aozora1.png)
+![image2](http://priolo.wktk.so/images/aozora2.png)  
+![image3](http://priolo.wktk.so/images/aozora3.png)
+![image4](http://priolo.wktk.so/images/aozora4.png)  
   
   
 特徴
